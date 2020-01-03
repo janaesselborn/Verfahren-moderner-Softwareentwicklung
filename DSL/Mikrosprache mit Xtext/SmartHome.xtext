@@ -1,0 +1,19 @@
+grammar org.xtext.esselborn.smarthome.SmartHome with org.eclipse.xtext.common.Terminals
+
+generate smartHome "http://www.xtext.org/esselborn/smarthome/SmartHome"
+
+Model:
+	controls+=Control*;
+	
+Control:
+	ControlOn | ControlOff;
+
+device:
+	'Licht' | 'Heizung' | 'Musik' | 'Staubsauger';
+	
+ControlOn:
+	'Mache' device 'an';
+
+ControlOff:
+	'Mache' device 'aus';
+
