@@ -1,11 +1,11 @@
 # Ben Mosley, Peter Marks
 → Hauptstile der 3 Sprachen: imperativ, funktional, logisch
 
-Objektorientierung (OOP)  ist ein imperativer Ansatz für die Programmierung, der zustandsbasiert arbeitet. In der OOP wird der Ansatz der “Verkapselung” angewendet. Es können Probleme entstehen, das Zustände der Variablen manipulierbar sind und es schwierig ist einzelne Objekte einzuschränken. 
+**Objektorientierung (OOP)**  ist ein imperativer Ansatz für die Programmierung, der zustandsbasiert arbeitet. In der OOP wird der Ansatz der “Verkapselung” angewendet. Es können Probleme entstehen, das Zustände der Variablen manipulierbar sind und es schwierig ist einzelne Objekte einzuschränken. 
 
-Funktionale Programmierung findet seine Grundlage im lambda Kalkül, welches zustandslos arbeitet. Dadurch werden Seiteneffekte ausgeschlossen. Funktionale Programmierung bringt Vorteile mit wie die leichtere Testbarkeit und höhere Sicherheit. Kann allerdings bei modularen Lösungen auch schnell komplex werden. 
+**Funktionale Programmierung** findet seine Grundlage im lambda Kalkül, welches zustandslos arbeitet. Dadurch werden Seiteneffekte ausgeschlossen. Funktionale Programmierung bringt Vorteile mit wie die leichtere Testbarkeit und höhere Sicherheit. Kann allerdings bei modularen Lösungen auch schnell komplex werden. 
 
-Logische Programmierung wird als deklarativer Stil betrachtet, dieser sagt was zu tun ist und nicht wie etwas gemacht werden soll. Es können Regeln definiert werden mit denen dann Lösungen erstellt werden. In der logischen Programmierung gibt es zwar keinen Zustand, dafür aber ein Halteproblem. 
+**Logische Programmierung** wird als deklarativer Stil betrachtet, dieser sagt was zu tun ist und nicht wie etwas gemacht werden soll. Es können Regeln definiert werden mit denen dann Lösungen erstellt werden. In der logischen Programmierung gibt es zwar keinen Zustand, dafür aber ein Halteproblem. 
 
 
 # Lisp
